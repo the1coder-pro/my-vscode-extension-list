@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "seti",
+    "editor.cursorStyle": "line-thin",
+    "editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300", // Light
+    "editor.fontSize": 15,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.colorTheme": "Primal"
+}
